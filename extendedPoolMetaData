@@ -1,0 +1,19 @@
+{
+    "info": {
+        "location": "Zuerich, Switzerland",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "https://t.me/POOLCardanoStakePool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "about": {
+            "me": "My name is Raphael. I am a 29yo Software engineer from switzerland. This is a project to support the cardano network.",
+            "server": "The pool is based on 2 relay and a producer-node. It is hostet by https://www.digitalocean.com",
+            "company": ""
+        }
+    }
+}
