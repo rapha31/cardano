@@ -2,5 +2,6 @@
 "name": "Cardano Stake Pool",
 "description": "My pool to support the cardano network",
 "ticker": "POOL",
-"homepage": "n/a"
+"homepage": "n/a", 
+"extended": "https://git.io/J3Xt9"
 }
